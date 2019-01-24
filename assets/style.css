@@ -1,0 +1,11 @@
+.event-meta {
+  display: none;
+}
+
+.tab {
+  display: none;
+}
+
+.tab.is-open {
+  display: block;
+}
